@@ -1,4 +1,4 @@
-#Installion 
+#Installation 
 <br/>
 `npm install`
 
